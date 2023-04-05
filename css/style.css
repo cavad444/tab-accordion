@@ -1,0 +1,18 @@
+.accordion-content {
+    display: none;
+    font-size: 21px;
+  }
+  .accordion-header{
+    font-size: 30px;
+    cursor: pointer;
+  }
+  .accordion-div{
+    width: 100%;
+    
+  }
+  .accordion{
+    display: flex;
+    flex-direction: column;
+  
+  }
+  
